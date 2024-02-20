@@ -16,7 +16,7 @@ div {
     margin: 32px;
     text-align: center;
     cursor: pointer;
-    display: none;
+    
 }
 
 .Button-header {
@@ -30,10 +30,8 @@ div {
     letter-spacing: 1px;
     color: #FFFFFF;
     cursor: pointer;
-    margin-left: 450px;
-    margin-top: -70px;
-    margin-right: 5px;
-
+    
+    
 }
 
 .image-logo {
